@@ -1,6 +1,6 @@
 ﻿namespace FutureValue
 {
-    partial class Form1
+    partial class frmFutureValue
     {
         /// <summary>
         /// Required designer variable.

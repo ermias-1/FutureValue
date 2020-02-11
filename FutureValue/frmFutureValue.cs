@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FutureValue
 {
-    public partial class Form1 : Form
+    public partial class frmFutureValue : Form
     {
-        public Form1()
+        public frmFutureValue()
         {
             InitializeComponent();
         }
